@@ -1,0 +1,16 @@
+//
+//  Production.xcconfig
+//  kiliaro
+//
+//  Created by Emad Bayramy on 12/5/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = Kiliaro
+BASE_BUNDLE_ID = com.beyrami.kiliaro
+URL_SCHEME = kiliaro
+APP_ICON = AppIcon
+BASE_API_URL = https:\/\/api1.kiliaro.com\/
+API_SHARED_KEY = djlCbGusTJamg_ca4axEVw

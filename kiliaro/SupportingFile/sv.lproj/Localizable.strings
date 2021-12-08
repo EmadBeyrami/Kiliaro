@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  kiliaro
+
+  Created by Emad Bayramy on 12/5/21.
+  
+*/
+
+"to_home" = "Till hem";
+"Change_Language" = "Ändra språk";
+"controllFlowNotelabel" = "Obs! Genom att trycka på reload-knappen kommer hela cachade filer att rensas och laddas om.";
+"size" = "Storlek: ";
+"urlError" = "vald URL är inte korrekt";
+"cancel" = "avbryt";
+"myImages" = "Mina bilder";
