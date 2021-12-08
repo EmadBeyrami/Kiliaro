@@ -10,3 +10,4 @@ Kiliaro Assignment
 - Generic CollectionView
 - MVVM + Coordinator + Reactive Architecture
 - Scalable and Testable Project
+- Dark and Light Mode
